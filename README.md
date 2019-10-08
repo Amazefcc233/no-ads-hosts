@@ -1,2 +1,2 @@
-# no-ads-hosts
-去广告 hosts
+# 去广告 hosts
+仅为个人使用，若需要使用配合其他屏蔽hosts更佳  
